@@ -1,1 +1,64 @@
-= Hello
+= Homework 1
+
+==== Write a program lists.py that has the following functionality:
+
+
+* Create a function call `max_val(xs)` that will return the maximum value from a list of number.
+
+[source,python]
+def max_val(xs):
+
+	max = 0
+
+	# write your logic here
+
+	return max
+
+
+* Write a function that calculate the average value from a list of numbers.
+
+[source,python]
+def average_val(xs):
+
+	average = 0
+
+	# write your logic here
+
+	return average
+
+* Write a function that take a string `s` and returns two copies of that string
+
+[source,python]
+def double_string(s):
+	pass
+</pre>
+
+* Write a function `cylinder_volume` that takes arguments `r` and `h` and returns volume of a 
+cylinder with radius `r` and height `h`
+
+<pre>
+def cylinder_volume(r, h):
+	volume = 0
+
+	return volume
+</pre>
+
+* Write a function `copy_string(s, n)` which returns n copies of string s.
+
+<pre>
+def copy_string(s, n):
+	pass
+</pre>
+
+* Write a function `std_dev(xs)` which computes the standard deviation of numbers in the list `xs`.
+
+<pre>
+def std_dev(xs):
+
+	# formula std = number of item
+	
+	std = 0
+
+	return std
+
+</pre>
