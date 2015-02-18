@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "xnrk",
-    "repositoryName": "xnrk.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"xnrk","repositoryName":"xnrk.github.io","branch":"master"},"site":{"title":"Introduction to Computer Science","description":"This intro course in computer science is taught in Python.","url":"http://xnrk.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://xnrk.github.io/themes/Casper"}}
